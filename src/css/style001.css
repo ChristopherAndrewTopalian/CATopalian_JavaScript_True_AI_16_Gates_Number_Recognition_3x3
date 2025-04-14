@@ -1,0 +1,10 @@
+/* style001.css */
+
+body
+{
+    background-color: rgb(30, 30, 30);
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
